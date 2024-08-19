@@ -1,0 +1,63 @@
+.navbar-custom {
+    background-color: #0F1111;
+    height: 70px;
+}
+.navbar-brand img {
+    height: 60px;
+    margin-top: 10px;
+}
+.form-control-custom {
+    width: 500px;
+}
+
+.nav-link, .navbar-text {
+      
+    color: #f0eeea !important;
+}
+
+.navbar .dropdown-menu {
+    background-color: #0F1111;
+}
+.navbar .dropdown-item {
+    color: white;
+}
+.navbar .dropdown-item:hover {
+    background-color: #0F1111;
+}
+
+.nav-underline .nav-item{
+margin-left:50px ;
+}
+
+.nav-link .fa-solid{
+color: #f0eeea !important;
+}
+
+.carousel .carousel-item{
+height: 400px;
+}
+
+
+.offer-card {
+    transition: transform 0.2s ease-in-out;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+}
+
+.offer-card:hover {
+    transform: scale(1.03);
+}
+
+.offer-img {
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
+.offer-btn {
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 10px 15px;
+}
